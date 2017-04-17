@@ -51,14 +51,14 @@ html, body
 	height: 100%;
 	font-family: verdana;
 	font-size: 12pt;
-	background-color: #ff4500;
+	background-color: #ff571a;
 	color: #000000;
 	margin: 0px;
 }
 
 #wrapper
 {
-	background-color: #ff4500;
+	background-color: #e60000;
 	position: relative;
 	margin: auto;
 	width: 100%;
@@ -67,15 +67,10 @@ html, body
 
 #content
 {
+	background-color: #ff571a;
 	width: 100%;
 	min-height: 400px;
 	padding: 10px;
-}
-
-#home-content
-{
-	width: 880px;
-	padding: 5px;
 }
 
 h1
@@ -117,38 +112,6 @@ h1
 {
 	margin-top: 0;
 	width: 100%;
-}
-
-/***********************************
-	Styles for the index page
-***********************************/
-
-#wrapper-index
-{
-	background-image: url("../images/virtual-reality.jpg");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	margin: auto;
-	height: 100%;
-}
-
-#index-link
-{
-	border: solid #ddd 1px;
-	border-radius: 4px;
-	background-color: #fff;
-	padding: 15px;
-	width: 10%;
-	position: absolute;
-	bottom: 10%;
-	left: 45%;
-	text-align: center;
-}
-
-#index-link:link, #index-link:visited
-{
-	text-decoration: none;
-	color: #000000;
 }
 
 /************************************
@@ -310,14 +273,14 @@ html, body
 	height: 100%;
 	font-family: verdana;
 	font-size: 12pt;
-	background-color: #ff4500;
+	background-color: #ff571a;
 	color: #000000;
 	margin: 0px;
 }
 
 #wrapper
 {
-	background-color: #ff4500;
+	background-color: #e60000;
 	position: relative;
 	margin: auto;
 	width: 100%;
@@ -326,6 +289,7 @@ html, body
 
 #content
 {
+	background-color: #ff571a;
 	width: 100%;
 	min-height: 400px;
 	padding: 10px;
