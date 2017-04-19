@@ -120,7 +120,7 @@ h1
 
 #nav
 {
-	height: 50px;
+	/*height: 50px;*/
 	margin-bottom: 0;
 	border-color: #ffff00;
 	background-color: #ffff00;
@@ -323,7 +323,7 @@ h1
 #banner
 {
 	width: 100%;
-	min-height: 70px;
+	min-height: 120px;
 	background-color: #e60000;
 	color: #ffffff;
 }
@@ -380,7 +380,7 @@ h1
 
 #nav
 {
-	height: 50px;
+	/*height: 50px;*/
 	margin-bottom: 0;
 	border-color: #ffff00;
 	background-color: #ffff00;
@@ -522,7 +522,7 @@ a:hover, a:focus
 
 #banner
 {
-	min-height: 120px;
+	min-height: 130px;
 }
 
 #banner_text

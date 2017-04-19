@@ -8,7 +8,7 @@
 $(document).ready(function() {
 	$(window).scroll(function () {
       	if (window.innerWidth < 1024 && window.innerWidth > 768) {
-			if ($(window).scrollTop() >= 70) {
+			if ($(window).scrollTop() >= 120) {
 			  $('#nav').addClass('navbar-fixed-top');
 			  $('body').addClass('pad-for-nav');
 			} else {
@@ -24,7 +24,7 @@ $(document).ready(function() {
 			  $('body').removeClass('pad-for-nav');
 			}
 		} else {
-			if ($(window).scrollTop() >= 120) {
+			if ($(window).scrollTop() >= 130) {
 			  $('#nav').addClass('navbar-fixed-top');
 			  $('body').addClass('pad-for-nav');
 			} else {
